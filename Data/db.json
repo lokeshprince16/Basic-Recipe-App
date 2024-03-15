@@ -1,0 +1,34 @@
+{
+    "recipe": [
+        {
+            "id":1,
+            "title":"Chicken Biryani",
+            "data":"Gather all ingredients. Heat 2 tablespoons of oil in a large skillet. Fry potatoes in hot oil until lightly browned, about 3 to 5 minutes. Remove to a paper towel-lined plate to drain; set aside. Add remaining 2 tablespoons of oil to the skillet. Add onions, garlic, and fresh ginger; cook and stir until onion is soft and golden. Add tomatoes, salt, cumin, chili powder, pepper, and turmeric; cook, stirring constantly, for 5 minutes. Stir in yogurt, mint, ground cardamom, and cinnamon stick. Cover and cook over low heat, stirring occasionally, until tomatoes are cooked to a pulp. It may be necessary to add a little hot water if mixture becomes too dry and starts to stick to the pan.Add chicken and stir well to coat. Cover and cook over very low heat until chicken is tender, 35 to 45 minutes. There should only be a little very thick gravy left when chicken is finished cooking. If necessary cook uncovered for a few minutes. Meanwhile, make the rice: Wash rice well and drain in a colander for at least 30 minutes. Heat oil in a large skillet. Add onion; cook and stir until golden. Add cardamom pods, cloves, cinnamon stick, ground ginger, and saffron; stir in rice until coated with spices.Heat stock and salt in a medium pot until hot; pour over rice and stir well. Add chicken mixture and potatoes; stir gently to combine. Bring to a boil.Reduce heat to very low, cover with a tight-fitting lid, and steam for 20 minutes without lifting the lid or stirring.Spoon biryani onto a warm serving dish."
+
+        },
+        {
+            "id":2,
+            "title":"Chicken Tandoori",
+            "data":"Stir yogurt, salt, ginger, pepper, and cloves together in a bowl. Mix in garlic, paprika, cumin, cinnamon, and coriander. Set aside.Place chicken in a large resealable plastic bag. Pour yogurt mixture over chicken, press air out of the bag, and seal. Turn the bag over several times to distribute marinade. Place the bag in a bowl, and refrigerate 8 hours, or overnight, turning the bag occasionally. Preheat an outdoor grill for direct medium heat and lightly oil the grate. Remove chicken from marinade and shake off excess. Discard remaining marinade. Spray chicken pieces with olive oil spray.Place chicken on the grill, and cook about 2 minutes. Turn, and cook 2 minutes more. Then arrange chicken thighs over indirect heat, and cook until no longer pink at the bone and the juices run clear, about 35 to 40 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C). "
+
+        },
+        {
+            "id":3,
+            "title":"Choco Lava Cake",
+            "data":"Preheat oven to 350 degrees F (175 degrees C). Grease and flour 3 - 9 inch round pans. Sift together the flour, baking soda and salt. Set aside. In a small saucepan, heat water and 4 ounces chocolate until melted. Remove from heat and allow to cool. In a large bowl, cream 1 cup butter and 2 cups sugar until light and fluffy. Beat in 4 egg yolks one at a time. Blend in the melted chocolate mixture and vanilla. Beat in the flour mixture alternately with the buttermilk, mixing just until incorporated.In a large glass or metal mixing bowl, beat egg whites until stiff peaks form. Fold 1/3 of the whites into the batter, then quickly fold in remaining whites until no streaks remain.Pour into 3 - 9 inch pans Bake in the preheated oven for 30 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow to cool for 10 minutes in the pan, then turn out onto wire rack. To make the Filling: In a saucepan combine 1 cup sugar, evaporated milk, 1/2 cup butter, and 3 egg yolks. Cook over low heat, stirring constantly until thickened. Remove from heat. Stir in coconut, pecans and vanilla. Cool until thick enough to spread. Spread filling between layers and on top of cake. In a small saucepan, melt shortening and 1 ounce of chocolate. Stir until smooth and drizzle down the sides of the cake."
+
+        },
+        {
+            "id":4,
+            "title":"Parotta",
+            "data":"Traditional Parotta recipe is made using maida, salt, sugar and oil. Eggs are used to keep the dough very soft, but since we wanted to make the parotta recipe without eggs, we used milk and water to knead the dough.The dough kneading is slightly different from the usual methods and as much as kneading is important, the dough has to rest well to yield soft, flaky and layered parottas.While making balls of dough – called ‘beeda’, the dough is pushed inside between thumb and index finger, that way producing the smoothest ball.Authentic parotta is made by throwing & swinging the dough around instead of rolling it, to make it as thin as possible. For home cooks with limited bench space, this could be a challenge. So we used an easier approach of spreading the dough as thin as possible, don’t mind the holes but just get the dough wafer thin.The spread dough is folded in a long ribbon that in turn is rolled into a rough circle. It is important to handle the dough as gently as possible.And most importantly, press the prepared parotta using your fingers instead of rolling them to retain all the layers.Cook the parotta on medium flame with enough oil, this helps it keep softer for longer duration.And finally, stack all the prepared parottas and press them on both sides to bring out the layers!"
+
+        },
+        {
+            "id":5,
+            "title":"Cheese Pizza",
+            "data":"Cook the beef with onions and garlic, drain, and season.Place a tortilla on each pie plate and top with refried beans.Cover with the beef, top with another tortilla, and bake until the tortillas are crisp.Layer the toppings in this order: Salsa, cheeses, tomatoes, green onions, and jalapeño.Bake until the cheese is melted. Cool, then cut each pizza into four slices."
+            
+        }
+    ]
+}
